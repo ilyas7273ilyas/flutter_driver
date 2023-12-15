@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "436597238544",
+    "firebase_url": "https://vayu-ride-with-admin-default-rtdb.firebaseio.com",
+    "project_id": "vayu-ride-with-admin",
+    "storage_bucket": "vayu-ride-with-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436597238544:android:68a982681fb467cf825395",
+        "android_client_info": {
+          "package_name": "com.iliyas.driversapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbq6z0NE2E9CTVjeqSCAn5WGEYBLMNDOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436597238544:android:329041c5d7485483825395",
+        "android_client_info": {
+          "package_name": "com.iliyas.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbq6z0NE2E9CTVjeqSCAn5WGEYBLMNDOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
